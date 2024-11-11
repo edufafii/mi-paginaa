@@ -183,8 +183,6 @@ footer {
             <form action="submit_form.php" method="post">
                 <input type="text" name="nombre" placeholder="Tu nombre" required>
                 <input type="email" name="correo" placeholder="Tu correo" required>
-                <textarea name="mensaje" placeholder="Tu mensaje" required></textarea>
-                <button type="submit">Enviar mensaje</button>
             </form>
         </section>
     </main>
